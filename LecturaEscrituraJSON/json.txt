@@ -1,0 +1,25 @@
+{
+  "id": 33333,
+  "nombre": "Usuario2",
+  "apellido": "Apellido2",
+  "aceptaNovedades": false,
+  "correo": "correo"
+}{
+  "id": 55555,
+  "nombre": "Usuario4",
+  "apellido": "Apellido4",
+  "aceptaNovedades": false,
+  "correo": "correo"
+}{
+  "id": 99999,
+  "nombre": "Usuario8",
+  "apellido": "Apellido8",
+  "aceptaNovedades": false,
+  "correo": "correo"
+}{
+  "id": 0,
+  "nombre": "Usuario9",
+  "apellido": "Apellido9",
+  "aceptaNovedades": false,
+  "correo": "correo"
+}
